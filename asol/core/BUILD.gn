@@ -7,6 +7,8 @@ source_set("core") {
     "ai_service_provider.h",
     "multi_adapter_manager.cc",
     "multi_adapter_manager.h",
+    "trihorn_consciousness.cc",
+    "trihorn_consciousness.h",
   ]
 
   deps = [
